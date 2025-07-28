@@ -4,7 +4,7 @@ smart_price_comparision_website
 
 
 
-
+--------------------------------------------------------------------------------------------------------------------------------------------------------
 //tech stacks 
 
 Frontend:
@@ -26,5 +26,8 @@ Optional Tools:
 
 - Cloudinary (for images), Google Analytics, OpenAI (for smart suggestions)
 
+- ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
+
+[Major Project-1 PPT Format.pptx](https://github.com/user-attachments/files/21471470/Major.Project-1.PPT.Format.pptx)
